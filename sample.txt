@@ -1,0 +1,3 @@
+My first note.
+Python makes file writing easy!
+This line was appended later.
